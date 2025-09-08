@@ -1,4 +1,4 @@
 # Project-practice
 
 hello
-hello feature b
+hello feature B
